@@ -1,1 +1,1 @@
-# cv
+# simple cv website using html only
